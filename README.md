@@ -7,3 +7,4 @@
 * Queries (.sql)
 * QDB Text Input (.txt)
 * BONUS: Manipulating Databases via Python (.ipynb)
+
